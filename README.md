@@ -45,7 +45,6 @@ Project/
 ├── analyze_results.py         # Post-hoc analysis script
 ├── results/                   # Raw JSON episode outputs
 ├── figures/                   # Generated plots (PNG)
-├── presentation_content.md    # 30-min presentation with speaker notes
 ├── requirements.txt           # Python dependencies
 └── README.md                  # This file
 ```
